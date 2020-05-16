@@ -1,4 +1,4 @@
-name: auto close issues
+name: auto-close-issues
 
 on:
   issues:
